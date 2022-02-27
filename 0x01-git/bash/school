@@ -2,5 +2,4 @@
 
 #!/bin/bash
 
- update_script
-echo "The School is open!"
+echo "School"
